@@ -1,6 +1,6 @@
 # GWIX MCP server
 
-GWIX gives AI agents pay, hiring demand, company, occupation and workforce statistics for 247 countries. It combines job-ad data with official statistics (BLS, Census Bureau, ONS and others) in one taxonomy. Every answer carries its source, data release, sample size and a citation, and all tools are read-only.
+GWIX gives AI agents curated private and public market data, integrated across domains. Ask GWIX produces in-depth analysis drawn from many curated sources, and every answer carries its source, data release, sample size and a citation. Today GWIX covers pay, hiring demand, company, occupation, workforce and government economic data for over 240 countries and major territories, from data partners and official statistics (BLS, Census Bureau, ONS and others). Every source is mapped to one set of integrated taxonomies and updated as often as daily. New domains are added monthly. All tools are read-only.
 
 This repository holds the public configuration for the hosted GWIX MCP server: connection files for MCP clients and the registry manifest. The server itself is hosted by GWIX; its source code is not published here.
 
@@ -11,6 +11,10 @@ This repository holds the public configuration for the hosted GWIX MCP server: c
 | Official MCP Registry | [`ai.gwix/gwix`](https://registry.modelcontextprotocol.io/v0.1/servers?search=gwix) |
 | Setup guide | https://gwix.ai/mcp |
 | API reference | https://api.gwix.ai/docs |
+
+## Access
+
+Try the free sample at `https://api.gwix.ai/mcp/sample`, no account needed. Full access uses a GWIX account with credits; see https://gwix.ai for plans. Account owners can authorize an agent to purchase plans and upgrades on their behalf.
 
 ## Sign-in
 
