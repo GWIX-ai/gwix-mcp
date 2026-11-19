@@ -1,0 +1,15 @@
+{
+  "name": "gwix",
+  "displayName": "GWIX",
+  "description": "Pay, hiring demand, company, occupation and workforce statistics for 247 countries, with a citation on every answer.",
+  "version": "1.0.2",
+  "author": {
+    "name": "Global Wholesale Intelligence Exchange (GWIX)",
+    "url": "https://gwix.ai"
+  },
+  "homepage": "https://gwix.ai/mcp",
+  "repository": "https://github.com/gwix-ai/gwix-mcp",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": ["labor-market", "salary", "compensation", "hiring", "jobs", "workforce", "occupations"]
+}
