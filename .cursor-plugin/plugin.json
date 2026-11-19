@@ -1,8 +1,8 @@
 {
   "name": "gwix",
   "displayName": "GWIX",
-  "description": "Pay, hiring demand, company, occupation and workforce statistics for 247 countries, with a citation on every answer.",
-  "version": "1.0.2",
+  "description": "In-depth analysis drawn from many curated private and public sources, integrated on common taxonomies and updated as often as daily, with a citation on every answer. Today: pay, hiring, workforce and government economic data for over 240 countries and major territories. New domains added monthly.",
+  "version": "1.0.3",
   "author": {
     "name": "Global Wholesale Intelligence Exchange (GWIX)",
     "url": "https://gwix.ai"
