@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "ai.gwix/gwix",
   "title": "GWIX",
-  "description": "Global market intelligence from premier data partners and government agencies, with citations.",
-  "version": "1.0.2",
+  "description": "Curated market intelligence for AI with citations: pay, hiring, workforce, government economic data.",
+  "version": "1.0.3",
   "websiteUrl": "https://gwix.ai/mcp",
   "repository": {
     "url": "https://github.com/gwix-ai/gwix-mcp",
