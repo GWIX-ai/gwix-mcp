@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "gwix": {
+      "url": "https://api.gwix.ai/mcp"
+    }
+  }
+}
